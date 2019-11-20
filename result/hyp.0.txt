@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>-lrb- cnn -rrb- -- video producer 's note : lasers are now being used to help people with disabilities communicate .</a>
+<a name="2">[2]</a> <a href="#2" id=2>cnn got a firsthand look at how this assistive technology works when sandy hanebrink , executive director of touch the future , gave us a demonstration of the lucy 4 keyboard at the abilities expo in atlanta .</a>
+<a name="3">[3]</a> <a href="#3" id=3>in the above video you 'll see how the technology has given a voice to people that would otherwise have no means of communicating on computers and smartphones .</a>
+</body>
+</html>

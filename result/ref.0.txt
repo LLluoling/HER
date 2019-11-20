@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>the lucy 4 keyboard for the disabled can be accessed by laser control .</a>
+<a name="2">[2]</a> <a href="#2" id=2>hanebrink : when it comes to jobs and school , assistive technology can level the playing field .</a>
+<a name="3">[3]</a> <a href="#3" id=3>the keyboard is designed to limit head movement .</a>
+</body>
+</html>
